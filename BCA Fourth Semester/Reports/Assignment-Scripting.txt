@@ -1,0 +1,6 @@
+1.	Design following from in HTML and display the value in the result box after calculating basic arithmetic operation based on the use input with the use of JavaScript.
+2.	Write an object-oriented PHP program to implement the concept of inheritance in considering with following class diagram with the use of constructor for 20 students.
+3.	Design a following form in HTML and write corresponding PHP and MYSQL code to store the user’s values after satisfying following validation rules.
+a)	Length of Name up to 40 character.
+b)	Email address must be valid email address.
+c)	Username must be start with string and followed by number.
